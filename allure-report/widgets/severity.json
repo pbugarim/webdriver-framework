@@ -1,0 +1,1 @@
+[{"uid":"ee7e95b017a10749","name":"Clicar em login - usuário anônimo","time":{"start":1684245581911,"stop":1684245582367,"duration":456},"status":"passed","severity":"normal"},{"uid":"34090cb61fa82bea","name":"Fazer login","time":{"start":1684245601913,"stop":1684245601929,"duration":16},"status":"passed","severity":"normal"}]
